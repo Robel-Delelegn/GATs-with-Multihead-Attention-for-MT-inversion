@@ -84,7 +84,6 @@ The GAT-Attention model performs very well on synthetic and real-world data comp
 
 This repository is released under the [MIT License](LICENSE).  
 
-```  
 
 ## Contact  
 

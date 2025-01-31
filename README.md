@@ -72,7 +72,7 @@ Run the script to train the model:
 
 ```bash
 python 'Data Generation and Training'/'Model and Training.ipynb'
-`
+```
 
 ## Results  
 

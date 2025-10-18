@@ -71,7 +71,7 @@ The proposed model integrates Graph Attention Networks (GATs) and Multihead Atte
 Run the script to train the model:  
 
 ```bash
-python 'Data Generation and Training'/'Model and Training.ipynb'
+python 'Data Generation and Training'/'GAT Model and Training.ipynb'
 ```
 
 ## Results  
